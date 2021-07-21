@@ -45,8 +45,8 @@ __MOBILE VIEW__
 
 
  ## Installations
-   * [The URL of the Github repo](Https://GitHub.com/F34rTh3R34p3r/BCS-Project-1.git)
-   * [The URL of the deployed application](Https://f34rth3r34p3r.github.io/BCS-Project-1/)
+   * [The URL of the Github repo](https://github.com/WellAndGood/BCS-Project-1)
+   * [The URL of the deployed application](https://wellandgood.github.io/BCS-Project-1/)
  
  ## What can the app do?
  Here's a chart off all the functions that our web app is required to do
